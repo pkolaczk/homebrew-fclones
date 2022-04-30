@@ -23,4 +23,3 @@ class Fclones < Formula
     assert_match "16aa71f09f39417ecbc83ea81c90c4e7", output
   end
 end
-
